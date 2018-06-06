@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bolt
+  - Beam
+  - Ship
+  - Shield
+  - Detection
+  - BoltPlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ShipThruster
+  - ShipExtra
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: World Background
+    uniqueID: 2041213819
+    locked: 0
+  - name: World Midground
+    uniqueID: 3062700677
+    locked: 0
+  - name: World Foreground
+    uniqueID: 1115892659
+    locked: 0
+  - name: World Accents
+    uniqueID: 1262507783
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ship Thruster
+    uniqueID: 3379802475
+    locked: 0
+  - name: Projectiles
+    uniqueID: 1995719603
+    locked: 0
+  - name: Ship Base
+    uniqueID: 90344245
+    locked: 0
+  - name: Effects
+    uniqueID: 1751379457
+    locked: 0
+  - name: Turret
+    uniqueID: 360994227
+    locked: 0
+  - name: TurretProjectile
+    uniqueID: 3465939765
+    locked: 0
+  - name: Shield
+    uniqueID: 107127185
+    locked: 0
