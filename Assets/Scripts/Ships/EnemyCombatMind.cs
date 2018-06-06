@@ -4,16 +4,23 @@ using UnityEngine;
 
 public class EnemyCombatMind : MonoBehaviour {
 
-	public float distx;
-	public float disty;
-	public float distance;
 	public float slowdown = 10f;
+	public float distance;
 	public float maxSpeed = 0.75f;
-	public float combatRange = 2f;
+	public float combatRange = 5f;
 	public float playerHostility = 6f;
 	public float shipHostility = 0f;
+	public float velocity;
+	public bool boosting;
+	public Vector2 movements;
 	public GameObject target;
 	public GameObject weapons;
+	public GameObject thrusters;
+
+	private void Start()
+	{
+		boosting = false;
+	}
 
 	void Sighting (GameObject ship) {
 
@@ -22,15 +29,18 @@ public class EnemyCombatMind : MonoBehaviour {
 				target = ship;
 			}
 		}
+		if (ship.tag == "Ship") {
+			if (shipHostility >= 5f) {
+				target = ship;
+			}
+		}
 	}
 
-	void FixedUpdate () {
+	void FixedUpdate ()
+	{
 
-		distx = Mathf.Abs (transform.position.x);
-		disty = Mathf.Abs (transform.position.y);
-		distance = distx + disty;
+		distance = Vector2.Distance(target.transform.position, transform.position);
 		if (distance >= combatRange) {
-			Debug.Log ("Moving In");
 			var speed = distance / slowdown;
 			speed = Mathf.Clamp (speed, 0f, maxSpeed);
 			transform.Translate (0, speed, 0);
@@ -39,5 +49,17 @@ public class EnemyCombatMind : MonoBehaviour {
 			weapons.gameObject.SendMessage ("FirePrimary");
 		}
 		transform.rotation = Quaternion.LookRotation(Vector3.forward, target.transform.position - transform.position);
+
+		movements = transform.position;
+		velocity = Vector2.Distance(movements, transform.position);
+		thrusters.SendMessage("Velocity", velocity);
+		if (velocity >= 0.25)
+		{
+			thrusters.SendMessage("Boosting", true);
+		}
+		else
+		{
+			thrusters.SendMessage("Boosting", false);
+		}
 	}
 }
