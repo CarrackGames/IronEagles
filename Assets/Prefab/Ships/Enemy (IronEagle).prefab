@@ -38,6 +38,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4248070006038386}
   - component: {fileID: 82213436050752770}
+  - component: {fileID: 114125964668765442}
   m_Layer: 0
   m_Name: Gun1L
   m_TagString: Untagged
@@ -69,6 +70,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4432217982957922}
   - component: {fileID: 82430913939275308}
+  - component: {fileID: 114868715929496642}
   m_Layer: 0
   m_Name: Gun1R
   m_TagString: Untagged
@@ -87,10 +89,10 @@ GameObject:
   - component: {fileID: 50482669031613846}
   - component: {fileID: 60794188721712232}
   - component: {fileID: 114451654903976402}
-  - component: {fileID: 114370022447514454}
   - component: {fileID: 212715054573461964}
   - component: {fileID: 95089903186583836}
   - component: {fileID: 114785598903681746}
+  - component: {fileID: 114708119303137436}
   m_Layer: 8
   m_Name: Ship
   m_TagString: Ship
@@ -144,6 +146,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4873715937712778}
   - component: {fileID: 58269887195421572}
+  - component: {fileID: 114900787990260910}
   m_Layer: 0
   m_Name: Detector
   m_TagString: Detection
@@ -160,6 +163,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4361576445686410}
   - component: {fileID: 82014491502203884}
+  - component: {fileID: 114405588873933554}
   m_Layer: 0
   m_Name: Gun2L
   m_TagString: Untagged
@@ -176,6 +180,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4971296824680890}
   - component: {fileID: 82480711777966274}
+  - component: {fileID: 114963765563456726}
   m_Layer: 0
   m_Name: Gun2R
   m_TagString: Untagged
@@ -840,6 +845,21 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &114125964668765442
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1162823177642068}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc8f6e2522fcc034ebc1fda7a348c64b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cooldown: 0
+  volume: 0
+  projectileCooldown: 0
+  projectile: {fileID: 1523669746542236, guid: 1150f9be633caac498471e541615819c, type: 2}
 --- !u!114 &114152447483741234
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -852,41 +872,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   healthPerc: 100
---- !u!114 &114370022447514454
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1444840364286128}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1c89acd2da4e1de4b9906391dac49c34, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  maxVolume: 0.25
-  volume: 0.005
-  weaponSlots: 4
-  gun1R: {fileID: 1340174807302144}
-  gun1L: {fileID: 1162823177642068}
-  gun2R: {fileID: 1855828527658496}
-  gun2L: {fileID: 1618944014242304}
-  projectileType1: {fileID: 1523669746542236, guid: 1150f9be633caac498471e541615819c,
-    type: 2}
-  projectileType2: {fileID: 1523669746542236, guid: 1150f9be633caac498471e541615819c,
-    type: 2}
-  projectileType3: {fileID: 1731311676873002, guid: 0c8aa0984515e2842857bc53e74b2811,
-    type: 2}
-  projectileType4: {fileID: 1731311676873002, guid: 0c8aa0984515e2842857bc53e74b2811,
-    type: 2}
-  player: {fileID: 0}
-  cooldown1: 0
-  cooldown2: 0
-  cooldown3: 0
-  cooldown4: 0
-  g1: {fileID: 0}
-  g2: {fileID: 0}
-  g3: {fileID: 0}
-  g4: {fileID: 0}
 --- !u!114 &114374088152354820
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -898,6 +883,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: edc72e8a1964cfa4b83cd8beee067b15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &114405588873933554
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1618944014242304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc8f6e2522fcc034ebc1fda7a348c64b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cooldown: 0
+  volume: 0
+  projectileCooldown: 0
+  projectile: {fileID: 1523669746542236, guid: 1150f9be633caac498471e541615819c, type: 2}
 --- !u!114 &114439766850761968
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -936,6 +936,21 @@ MonoBehaviour:
   maxhealth: 1000
   doomed: 0
   doomedCountdown: 75
+--- !u!114 &114708119303137436
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1444840364286128}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75b037246e144934885bdc362fff961d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gun1R: {fileID: 1340174807302144}
+  gun1L: {fileID: 1162823177642068}
+  gun2R: {fileID: 1855828527658496}
+  gun2L: {fileID: 1618944014242304}
 --- !u!114 &114785598903681746
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -947,9 +962,40 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a746f6a7e10e5246aa17b90f269b59a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  distance: 0
+  slowdown: 10
+  maxSpeed: 0.75
+  combatRange: 10
   playerHostility: 6
   shipHostility: 0
   target: {fileID: 0}
+--- !u!114 &114868715929496642
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1340174807302144}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc8f6e2522fcc034ebc1fda7a348c64b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cooldown: 0
+  volume: 0
+  projectileCooldown: 0
+  projectile: {fileID: 1523669746542236, guid: 1150f9be633caac498471e541615819c, type: 2}
+--- !u!114 &114900787990260910
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1596573282451058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 536e6008f4175054c90c018c06065356, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mind: {fileID: 1444840364286128}
 --- !u!114 &114935885343171446
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -962,6 +1008,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1444840364286128}
+--- !u!114 &114963765563456726
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1855828527658496}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc8f6e2522fcc034ebc1fda7a348c64b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cooldown: 0
+  volume: 0
+  projectileCooldown: 0
+  projectile: {fileID: 1523669746542236, guid: 1150f9be633caac498471e541615819c, type: 2}
 --- !u!212 &212342851398915128
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -995,7 +1056,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 107127185
-  m_SortingLayer: 4
+  m_SortingLayer: 7
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: b32538fbab54f8545a94ca4cdbd3baa8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1040,7 +1101,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1751379457
-  m_SortingLayer: 5
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

@@ -446,6 +446,32 @@ MonoBehaviour:
   volume: 0
   projectileCooldown: 0
   projectile: {fileID: 1731311676873002, guid: b63482549113e2c499629d31341bd2b3, type: 2}
+--- !u!1 &264759653 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1444840364286128, guid: 9db58d79e2c0e95498b34f971a6929f5,
+    type: 2}
+  m_PrefabInternal: {fileID: 2103697408}
+--- !u!114 &264759655
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 264759653}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a746f6a7e10e5246aa17b90f269b59a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distx: 0
+  disty: 0
+  distance: 0
+  slowdown: 10
+  maxSpeed: 0.75
+  combatRange: 2
+  playerHostility: 6
+  shipHostility: 0
+  target: {fileID: 0}
+  weapons: {fileID: 264759653}
 --- !u!1 &274016924
 GameObject:
   m_ObjectHideFlags: 0
@@ -579,6 +605,26 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c265a6c634813a64dbc782c0e25a7041, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &337870768 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1162823177642068, guid: 9db58d79e2c0e95498b34f971a6929f5,
+    type: 2}
+  m_PrefabInternal: {fileID: 2103697408}
+--- !u!114 &337870771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 337870768}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bab608171e5d66e449b67d7f12b0266c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cooldown: 0
+  volume: 0
+  projectileCooldown: 0
+  projectile: {fileID: 1523669746542236, guid: 1150f9be633caac498471e541615819c, type: 2}
 --- !u!1 &411360885
 GameObject:
   m_ObjectHideFlags: 0
@@ -5753,6 +5799,26 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!1 &1396188959 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1618944014242304, guid: 9db58d79e2c0e95498b34f971a6929f5,
+    type: 2}
+  m_PrefabInternal: {fileID: 2103697408}
+--- !u!114 &1396188962
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1396188959}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bab608171e5d66e449b67d7f12b0266c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cooldown: 0
+  volume: 0
+  projectileCooldown: 0
+  projectile: {fileID: 1731311676873002, guid: 0c8aa0984515e2842857bc53e74b2811, type: 2}
 --- !u!1 &1443802692
 GameObject:
   m_ObjectHideFlags: 0
@@ -8381,9 +8447,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a746f6a7e10e5246aa17b90f269b59a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  distx: 0
+  disty: 0
+  distance: 0
+  slowdown: 10
+  maxSpeed: 0.75
+  combatRange: 10
   playerHostility: 6
   shipHostility: 0
   target: {fileID: 0}
+  weapons: {fileID: 0}
 --- !u!95 &1952150319
 Animator:
   serializedVersion: 3
@@ -8751,6 +8824,11 @@ CanvasRenderer:
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1956506222}
+--- !u!1 &1996179338 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1312877638869658, guid: 9db58d79e2c0e95498b34f971a6929f5,
+    type: 2}
+  m_PrefabInternal: {fileID: 2103697408}
 --- !u!1 &1998941456
 GameObject:
   m_ObjectHideFlags: 0
@@ -9117,6 +9195,26 @@ MonoBehaviour:
   volume: 0
   projectileCooldown: 0
   projectile: {fileID: 1731311676873002, guid: b63482549113e2c499629d31341bd2b3, type: 2}
+--- !u!1 &2097794503 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1340174807302144, guid: 9db58d79e2c0e95498b34f971a6929f5,
+    type: 2}
+  m_PrefabInternal: {fileID: 2103697408}
+--- !u!114 &2097794506
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2097794503}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bab608171e5d66e449b67d7f12b0266c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cooldown: 0
+  volume: 0
+  projectileCooldown: 0
+  projectile: {fileID: 1523669746542236, guid: 1150f9be633caac498471e541615819c, type: 2}
 --- !u!1001 &2103697408
 Prefab:
   m_ObjectHideFlags: 0
@@ -9156,16 +9254,17 @@ Prefab:
       propertyPath: m_RootOrder
       value: 5
       objectReference: {fileID: 0}
-    - target: {fileID: 114370022447514454, guid: 9db58d79e2c0e95498b34f971a6929f5,
+    - target: {fileID: 114900787990260910, guid: 9db58d79e2c0e95498b34f971a6929f5,
         type: 2}
-      propertyPath: player
+      propertyPath: mind
       value: 
-      objectReference: {fileID: 1363665179}
-    - target: {fileID: 1312877638869658, guid: 9db58d79e2c0e95498b34f971a6929f5, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
+      objectReference: {fileID: 1996179338}
+    m_RemovedComponents:
+    - {fileID: 114405588873933554, guid: 9db58d79e2c0e95498b34f971a6929f5, type: 2}
+    - {fileID: 114963765563456726, guid: 9db58d79e2c0e95498b34f971a6929f5, type: 2}
+    - {fileID: 114125964668765442, guid: 9db58d79e2c0e95498b34f971a6929f5, type: 2}
+    - {fileID: 114868715929496642, guid: 9db58d79e2c0e95498b34f971a6929f5, type: 2}
+    - {fileID: 114785598903681746, guid: 9db58d79e2c0e95498b34f971a6929f5, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: 9db58d79e2c0e95498b34f971a6929f5, type: 2}
   m_IsPrefabParent: 0
 --- !u!1 &2116418379
@@ -9532,3 +9631,23 @@ MonoBehaviour:
   volume: 0
   projectileCooldown: 0
   projectile: {fileID: 1731311676873002, guid: b63482549113e2c499629d31341bd2b3, type: 2}
+--- !u!1 &2136206821 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1855828527658496, guid: 9db58d79e2c0e95498b34f971a6929f5,
+    type: 2}
+  m_PrefabInternal: {fileID: 2103697408}
+--- !u!114 &2136206824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2136206821}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bab608171e5d66e449b67d7f12b0266c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cooldown: 0
+  volume: 0
+  projectileCooldown: 0
+  projectile: {fileID: 1731311676873002, guid: 0c8aa0984515e2842857bc53e74b2811, type: 2}

@@ -76,6 +76,8 @@
      <Compile Include="Assets\Scripts\Ships\BoltProjectile.cs" />
      <Compile Include="Assets\Scripts\Ships\Detector.cs" />
      <Compile Include="Assets\Scripts\Ships\EnemyCombatMind.cs" />
+     <Compile Include="Assets\Scripts\Ships\Gun.cs" />
+     <Compile Include="Assets\Scripts\Ships\IronEagle\IronEagleFire.cs" />
      <Compile Include="Assets\Scripts\Ships\Shield.cs" />
      <Compile Include="Assets\Scripts\Ships\ShipController.cs" />
      <Compile Include="Assets\Scripts\Ships\ShipMainSprite.cs" />
