@@ -10,6 +10,8 @@ TagManager:
   - Shield
   - Detection
   - BoltPlayer
+  - Alanxia System Defence
+  - Alanxia Raiders
   layers:
   - Default
   - TransparentFX

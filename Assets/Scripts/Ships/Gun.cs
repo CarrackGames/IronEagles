@@ -9,6 +9,7 @@ public class Gun : MonoBehaviour {
 	public float volume;
 	public float projectileCooldown;
 	public GameObject projectile;
+	public GameObject ship;
 
 	void Start() {
 		gs = GetComponent<AudioSource> ();
@@ -30,7 +31,7 @@ public class Gun : MonoBehaviour {
 
 
 		if (cooldown <= 0) {
-			Instantiate (projectile, transform.position, transform.rotation);
+			GameObject bullet = Instantiate (projectile, transform.position, transform.rotation);
 			cooldown = projectileCooldown;
 			gs.PlayOneShot (sound, volume);
 		}

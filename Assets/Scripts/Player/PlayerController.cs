@@ -11,6 +11,7 @@ public class PlayerController : MonoBehaviour {
 	public GameObject shipInner;
 	public GameObject pauseMenu;
 	private Vector3 mousePosition;
+	public static bool viewMode2d;
 	public static bool mouseLookControls = true;
 	public static bool boosting = false;
 	public static bool paused = false;
@@ -28,6 +29,7 @@ public class PlayerController : MonoBehaviour {
 
 	void Start () {
 
+		viewMode2d = true;
 		mouseLookControls = false;
 
 	}

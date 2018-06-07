@@ -45,8 +45,10 @@ public class EnemyCombatMind : MonoBehaviour {
 			speed = Mathf.Clamp (speed, 0f, maxSpeed);
 			transform.Translate (0, speed, 0);
 		} else { 
-			Debug.Log ("Firing");
-			weapons.gameObject.SendMessage ("FirePrimary");
+			if (target != null) {
+				Debug.Log ("Firing");
+				weapons.gameObject.SendMessage ("FirePrimary");
+			}
 		}
 		transform.rotation = Quaternion.LookRotation(Vector3.forward, target.transform.position - transform.position);
 

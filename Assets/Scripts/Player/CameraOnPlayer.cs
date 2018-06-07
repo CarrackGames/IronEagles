@@ -20,11 +20,20 @@ public class CameraOnPlayer : MonoBehaviour {
 
 	void FixedUpdate () {
 
-		var speed = scrollspeed * mainCam.orthographicSize * 0.5f;
-		zoom = (Input.GetAxis ("Mouse ScrollWheel") * speed) + mainCam.orthographicSize;
+		if (PlayerController.viewMode2d == true) {
+			var speed = scrollspeed * mainCam.orthographicSize * 0.5f;
+			zoom = (Input.GetAxis ("Mouse ScrollWheel") * speed) + mainCam.orthographicSize;
 
-		zoom = Mathf.Clamp (zoom, minZoom, maxZoom);
+			zoom = Mathf.Clamp (zoom, minZoom, maxZoom);
 
-		mainCam.orthographicSize = zoom;
+			mainCam.orthographicSize = zoom;
+		} else {
+			var speed = scrollspeed * mainCam.transform.position.z * 0.5f;
+			zoom = (Input.GetAxis ("Mouse ScrollWheel") * speed) + mainCam.transform.position.z;
+
+			zoom = Mathf.Clamp (zoom, minZoom, maxZoom);
+
+			mainCam.transform.position = new Vector3 (transform.position.x, transform.position.y, zoom);
+		}
 	}
 }

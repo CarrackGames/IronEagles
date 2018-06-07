@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronEagles", "Assembly-CSharp.csproj", "{FCF9A85F-0C06-A7BE-6CD6-17CF8A5E05AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronEagles", "Assembly-CSharp-Editor-firstpass.csproj", "{4E1AB9E0-E0A3-B33E-9510-0DEB5252A398}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{FCF9A85F-0C06-A7BE-6CD6-17CF8A5E05AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCF9A85F-0C06-A7BE-6CD6-17CF8A5E05AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCF9A85F-0C06-A7BE-6CD6-17CF8A5E05AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E1AB9E0-E0A3-B33E-9510-0DEB5252A398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E1AB9E0-E0A3-B33E-9510-0DEB5252A398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E1AB9E0-E0A3-B33E-9510-0DEB5252A398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E1AB9E0-E0A3-B33E-9510-0DEB5252A398}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

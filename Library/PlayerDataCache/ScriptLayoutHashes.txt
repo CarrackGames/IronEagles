@@ -85,6 +85,7 @@ f61c0793411f10cf5fbfa1473fef5ef2 UnityEngine.UI.dll:UnityEngine.UI.ToggleGroup
 86d36c43c53541d667100dc90b89cfba UnityEngine.UI.dll:UnityEngine.EventSystems.TouchInputModule
 1b8c02d0aa82fbf036a2b9b2d713eec3 UnityEngine.UI.dll:UnityEngine.UI.VerticalLayoutGroup
 12db72abb18b08bc6dcb91c0279eb931 Assembly-CSharp.dll:.IronEagleFireTest
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.AITurret
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 cf455f7a806648c6ed4c7d3e3f8a0e03 UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
 13bdb7c23815c33a33b37b0ba8dd39be UnityEngine.Timeline.dll:UnityEngine.Timeline.AnimationPlayableAsset
@@ -112,7 +113,9 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 3f32f08a64daf40b09ed864d96fe3840 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransform
 73843688b51256aed059f049c540bca8 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
+1fcdce165922d7a41fba7e0e376a5d63 Assembly-CSharp.dll:.Healthbar
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
+a52f3715ca7a2ad3c6c3ab216fc1503a Assembly-CSharp.dll:.IronEagleFire
 18e40c7e98f4c1abd8d3e11fb7e7c54e Assembly-CSharp.dll:.PlayerShipMove
 1d4bfcfc27af07b6a7f8ff3d8e39efa0 Assembly-CSharp.dll:.ViolbladeFireTest
 322cb40e1e282f28af980cbef7922a90 UnityEngine.Analytics.dll:UnityEngine.Analytics.AnalyticsEventTracker
@@ -126,6 +129,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 b9029441f384dfca1afce6640b222521 Assembly-CSharp.dll:.PlayerController
 eba675a77160f6bc1aae92a36a92c3c0 Assembly-CSharp.dll:.Audio
 5fc3505cc2683cf1aeec2b4d17e3ab1b Assembly-CSharp.dll:.BoltProjectile
+42e9991a50fb78b0774d7975f04fe55e Assembly-CSharp.dll:.Gun
 fe6bc650321f7bb8726cbb6837dee335 Assembly-CSharp.dll:.BeamProjectile
 82cedc23d5a9abfdc624c0115ae8310d Assembly-CSharp.dll:.Detector
 a32b9b8f1571f7e0e8d68509d2712b07 Assembly-CSharp.dll:.MouseLookControlsText
@@ -147,7 +151,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 73843688b51256aed059f049c540bca8 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 db06af6885d03df714759e39c2a25af6 Assembly-CSharp.dll:.CameraOnPlayer
-6e2c7bd1fadbec2958f2107ef45a519f Assembly-CSharp.dll:.EnemyCombatMind
+2276049c74efed556a93a5d982365786 Assembly-CSharp.dll:.EnemyCombatMind
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ShipThrusterAnimation
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
 f02726adeff0a3ec5905565234b372da UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
@@ -170,6 +174,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 7ed8a85d3db9873e50da329f0b834061 Assembly-CSharp.dll:.Options
 32129b1ebf53a56aa046042f728e1f09 Assembly-CSharp.dll:.ShipMainSprite
 2b5bd81c259c691324a17af9a3e97e85 Assembly-CSharp.dll:.ShipOuterOnPlayer
+c7c3fe733532aca4c9fddebd364f98fd Assembly-CSharp.dll:.ViolbladeFire
 1eac2823c1e4e34519be503618b7e25c Assembly-CSharp.dll:.IronEagleWeapons
 91ce201fb9f828e7c3571fabce4b4527 Assembly-CSharp.dll:.ViolbladeWeapons
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.NewGame
