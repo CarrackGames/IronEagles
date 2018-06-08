@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Sten9505\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_IronEagles.722224451.00" t="ExcludeRecursive" />
+    <e p="U:\Game Design\Semester 2\Game Design Final Project\IronEaglesGit\IronEagles" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="_Test" t="Include">
+            <e p="BeamProjectile.cs" t="Include" />
+            <e p="IronEagleFireTest.cs" t="Include" />
+            <e p="ViolbladeFireTest.cs" t="Include" />
+          </e>
+          <e p="Animations" t="Include">
+            <e p="AnimationDelay.cs" t="Include" />
+            <e p="MoveThenDelete.cs" t="Include" />
+          </e>
+          <e p="Menus" t="Include">
+            <e p="Audio.cs" t="Include" />
+            <e p="Healthbar.cs" t="Include" />
+            <e p="MainMenuQuit.cs" t="Include" />
+            <e p="MouseLookControlsText.cs" t="Include" />
+            <e p="NewGame.cs" t="Include" />
+            <e p="Options.cs" t="Include" />
+            <e p="ResumeGame.cs" t="Include" />
+            <e p="ViewModeText.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="Bannerlord" t="Include">
+              <e p="BannerlordWeapons.cs" t="Include" />
+            </e>
+            <e p="BoltProjectilePlayer.cs" t="Include" />
+            <e p="CameraOnPlayer.cs" t="Include" />
+            <e p="IronEagle" t="Include">
+              <e p="IronEagleWeapons.cs" t="Include" />
+            </e>
+            <e p="PlayerCharacter.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+            <e p="PlayerGun.cs" t="Include" />
+            <e p="PlayerShipMove.cs" t="Include" />
+            <e p="ShipOuterOnPlayer.cs" t="Include" />
+            <e p="Turret" t="Include">
+              <e p="ShipTurret.cs" t="Include" />
+            </e>
+            <e p="Violblade" t="Include">
+              <e p="ViolbladeWeapons.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Ships" t="Include">
+            <e p="BoltProjectile.cs" t="Include" />
+            <e p="Detector.cs" t="Include" />
+            <e p="EnemyCombatMind.cs" t="Include" />
+            <e p="Gun.cs" t="Include" />
+            <e p="IronEagle" t="Include">
+              <e p="IronEagleFire.cs" t="Include" />
+            </e>
+            <e p="Shield.cs" t="Include" />
+            <e p="ShipController.cs" t="Include" />
+            <e p="ShipMainSprite.cs" t="Include" />
+            <e p="ShipThrusterAnimation.cs" t="Include" />
+            <e p="Turrets" t="Include">
+              <e p="AITurret.cs" t="Include" />
+            </e>
+            <e p="Violblade" t="Include">
+              <e p="ViolbladeFire.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="IronEagles.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce3919ff-f263-4d97-985e-37166e225e80" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Fonts.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/2e/2ebd5ce9b17599d428227237a3c0a748" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/2e/2ebd5ce9b17599d428227237a3c0a748.info" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/assetDatabase3" afterPath="$PROJECT_DIR$/Library/assetDatabase3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/expandedItems" afterPath="$PROJECT_DIR$/Library/expandedItems" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/00/00716847b1674ff40b5c5cad8552ecdd" afterPath="$PROJECT_DIR$/Library/metadata/00/00716847b1674ff40b5c5cad8552ecdd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/08/0871ca89480c8cf4493c9d5f2f5476c7" afterPath="$PROJECT_DIR$/Library/metadata/08/0871ca89480c8cf4493c9d5f2f5476c7" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/08/0871ca89480c8cf4493c9d5f2f5476c7.info" afterPath="$PROJECT_DIR$/Library/metadata/08/0871ca89480c8cf4493c9d5f2f5476c7.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/08/0871ca89480c8cf4493c9d5f2f5476c7.resource" afterPath="$PROJECT_DIR$/Library/metadata/08/0871ca89480c8cf4493c9d5f2f5476c7.resource" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/0c/0c8aa0984515e2842857bc53e74b2811.info" afterPath="$PROJECT_DIR$/Library/metadata/0c/0c8aa0984515e2842857bc53e74b2811.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/0c/0cec4810e5d49b344899770a770d59d7" afterPath="$PROJECT_DIR$/Library/metadata/0c/0cec4810e5d49b344899770a770d59d7" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/11/1150f9be633caac498471e541615819c.info" afterPath="$PROJECT_DIR$/Library/metadata/11/1150f9be633caac498471e541615819c.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/12/12e09684fc75dfa478352e40a9c8ded0.info" afterPath="$PROJECT_DIR$/Library/metadata/12/12e09684fc75dfa478352e40a9c8ded0.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/1b/1bcd497078776da4e915a90e4536dc13" afterPath="$PROJECT_DIR$/Library/metadata/1b/1bcd497078776da4e915a90e4536dc13" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/1c/1c89acd2da4e1de4b9906391dac49c34" afterPath="$PROJECT_DIR$/Library/metadata/1c/1c89acd2da4e1de4b9906391dac49c34" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/24/2437b17e93a2874489daba6849e0c2aa" afterPath="$PROJECT_DIR$/Library/metadata/24/2437b17e93a2874489daba6849e0c2aa" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/26/265b7c13a13b4e9458b1e61472725f7c" afterPath="$PROJECT_DIR$/Library/metadata/26/265b7c13a13b4e9458b1e61472725f7c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/27/275a0ceb8fdd44d43b46e2fe54a46669" afterPath="$PROJECT_DIR$/Library/metadata/27/275a0ceb8fdd44d43b46e2fe54a46669" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/29/29c51266f20fdad4a90b1877aa4ccc6a" afterPath="$PROJECT_DIR$/Library/metadata/29/29c51266f20fdad4a90b1877aa4ccc6a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/2f/2f1e7be357c38424484fa86b959c259b" afterPath="$PROJECT_DIR$/Library/metadata/2f/2f1e7be357c38424484fa86b959c259b" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/31/31368f5246a36be458a1f4f6e9e8fcbc.info" afterPath="$PROJECT_DIR$/Library/metadata/31/31368f5246a36be458a1f4f6e9e8fcbc.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/35/35808c0ac0119964f9f56fa9469d01c2" afterPath="$PROJECT_DIR$/Library/metadata/35/35808c0ac0119964f9f56fa9469d01c2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/35/35db9128a501c8e4da14248d0a722e77.info" afterPath="$PROJECT_DIR$/Library/metadata/35/35db9128a501c8e4da14248d0a722e77.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/39/3989eab85e725504fa7f7e182747a1e1" afterPath="$PROJECT_DIR$/Library/metadata/39/3989eab85e725504fa7f7e182747a1e1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/4a/4a4b2b0e82e0ad944a562a83d30fd7fa" afterPath="$PROJECT_DIR$/Library/metadata/4a/4a4b2b0e82e0ad944a562a83d30fd7fa" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/4f/4ff7fe82cab2a1c4db6aea7be0358cb7.info" afterPath="$PROJECT_DIR$/Library/metadata/4f/4ff7fe82cab2a1c4db6aea7be0358cb7.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/50/50ce2577e4bb47f4999214781e2b3f92" afterPath="$PROJECT_DIR$/Library/metadata/50/50ce2577e4bb47f4999214781e2b3f92" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/50/50ce2577e4bb47f4999214781e2b3f92.info" afterPath="$PROJECT_DIR$/Library/metadata/50/50ce2577e4bb47f4999214781e2b3f92.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/50/50ce2577e4bb47f4999214781e2b3f92.resource" afterPath="$PROJECT_DIR$/Library/metadata/50/50ce2577e4bb47f4999214781e2b3f92.resource" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/50/50f480cf3f31e4049a912f63d6ad6a2e" afterPath="$PROJECT_DIR$/Library/metadata/50/50f480cf3f31e4049a912f63d6ad6a2e" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/53/536e6008f4175054c90c018c06065356" afterPath="$PROJECT_DIR$/Library/metadata/53/536e6008f4175054c90c018c06065356" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/53/53ace163e3a314c4bb140646edac4bf9" afterPath="$PROJECT_DIR$/Library/metadata/53/53ace163e3a314c4bb140646edac4bf9" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/59/59759e30f73cc6042ae721510e8f5bf0" afterPath="$PROJECT_DIR$/Library/metadata/59/59759e30f73cc6042ae721510e8f5bf0" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/5a/5aa01e5879e408a4d966af0b169a0257" afterPath="$PROJECT_DIR$/Library/metadata/5a/5aa01e5879e408a4d966af0b169a0257" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/5b/5b704bcef194c9a42809544016b168e1.info" afterPath="$PROJECT_DIR$/Library/metadata/5b/5b704bcef194c9a42809544016b168e1.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/5f/5f5b8436c4431274bb3d7f7da97c74f8" afterPath="$PROJECT_DIR$/Library/metadata/5f/5f5b8436c4431274bb3d7f7da97c74f8" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/6d/6df5e7de21c38cd478050ae20af4120a" afterPath="$PROJECT_DIR$/Library/metadata/6d/6df5e7de21c38cd478050ae20af4120a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/70/70150727ac1c7564ab34b6b8ba89b27c.info" afterPath="$PROJECT_DIR$/Library/metadata/70/70150727ac1c7564ab34b6b8ba89b27c.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/75/75b037246e144934885bdc362fff961d" afterPath="$PROJECT_DIR$/Library/metadata/75/75b037246e144934885bdc362fff961d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/83/8366d5507bdf66a4f9080ec7c58b3b01.info" afterPath="$PROJECT_DIR$/Library/metadata/83/8366d5507bdf66a4f9080ec7c58b3b01.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/84/84a4342684e13e740947b8531d706994" afterPath="$PROJECT_DIR$/Library/metadata/84/84a4342684e13e740947b8531d706994" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/89/896986e83e5e2e340b6af5070fd6950f" afterPath="$PROJECT_DIR$/Library/metadata/89/896986e83e5e2e340b6af5070fd6950f" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/91/918cb89aa73190a4abcc6d2150d97bd3" afterPath="$PROJECT_DIR$/Library/metadata/91/918cb89aa73190a4abcc6d2150d97bd3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/91/918cb89aa73190a4abcc6d2150d97bd3.info" afterPath="$PROJECT_DIR$/Library/metadata/91/918cb89aa73190a4abcc6d2150d97bd3.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/92/92ac466cc0ee5e744a1670e153f8cafd" afterPath="$PROJECT_DIR$/Library/metadata/92/92ac466cc0ee5e744a1670e153f8cafd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/95/95d0ec55bac03e24bba673ba96bb321a" afterPath="$PROJECT_DIR$/Library/metadata/95/95d0ec55bac03e24bba673ba96bb321a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/9d/9db58d79e2c0e95498b34f971a6929f5.info" afterPath="$PROJECT_DIR$/Library/metadata/9d/9db58d79e2c0e95498b34f971a6929f5.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/a0/a0546916e6087a541b04dcf4568e0f82.info" afterPath="$PROJECT_DIR$/Library/metadata/a0/a0546916e6087a541b04dcf4568e0f82.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/a2/a2b184ffca2cfab4cb75eb1af85a7a87" afterPath="$PROJECT_DIR$/Library/metadata/a2/a2b184ffca2cfab4cb75eb1af85a7a87" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/a5/a5fb0f4ff20fe2442a2ac7985ec39398" afterPath="$PROJECT_DIR$/Library/metadata/a5/a5fb0f4ff20fe2442a2ac7985ec39398" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/b3/b3f32c847975b7d46a353b75a42349d9" afterPath="$PROJECT_DIR$/Library/metadata/b3/b3f32c847975b7d46a353b75a42349d9" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/b5/b57ef890046b35646bc7b88eee64800b" afterPath="$PROJECT_DIR$/Library/metadata/b5/b57ef890046b35646bc7b88eee64800b" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/b5/b57ef890046b35646bc7b88eee64800b.info" afterPath="$PROJECT_DIR$/Library/metadata/b5/b57ef890046b35646bc7b88eee64800b.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/b6/b63482549113e2c499629d31341bd2b3.info" afterPath="$PROJECT_DIR$/Library/metadata/b6/b63482549113e2c499629d31341bd2b3.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/ba/bab608171e5d66e449b67d7f12b0266c" afterPath="$PROJECT_DIR$/Library/metadata/ba/bab608171e5d66e449b67d7f12b0266c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/bd/bdeb1019ce0e69444a031c2d8499a6b3" afterPath="$PROJECT_DIR$/Library/metadata/bd/bdeb1019ce0e69444a031c2d8499a6b3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/c9/c94f4656176ba1544a56abbfd3493f89.info" afterPath="$PROJECT_DIR$/Library/metadata/c9/c94f4656176ba1544a56abbfd3493f89.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/ca/ca9513b8bd72f0f4ebc8261ba7a84a87" afterPath="$PROJECT_DIR$/Library/metadata/ca/ca9513b8bd72f0f4ebc8261ba7a84a87" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/ce/cee23d48f3324ad4b93dc7f052aa03a9.info" afterPath="$PROJECT_DIR$/Library/metadata/ce/cee23d48f3324ad4b93dc7f052aa03a9.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/d9/d9b98f35f9f970740a47b2b069941fdd" afterPath="$PROJECT_DIR$/Library/metadata/d9/d9b98f35f9f970740a47b2b069941fdd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/d9/d9b98f35f9f970740a47b2b069941fdd.info" afterPath="$PROJECT_DIR$/Library/metadata/d9/d9b98f35f9f970740a47b2b069941fdd.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/dc/dc77186b2b8fd444dad2a40348bc593f" afterPath="$PROJECT_DIR$/Library/metadata/dc/dc77186b2b8fd444dad2a40348bc593f" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/dc/dc77186b2b8fd444dad2a40348bc593f.info" afterPath="$PROJECT_DIR$/Library/metadata/dc/dc77186b2b8fd444dad2a40348bc593f.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/e5/e575744d5e4d1e74c860788d8470486c" afterPath="$PROJECT_DIR$/Library/metadata/e5/e575744d5e4d1e74c860788d8470486c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/e7/e79dabec1c8902b4b8caeccd95a263fa" afterPath="$PROJECT_DIR$/Library/metadata/e7/e79dabec1c8902b4b8caeccd95a263fa" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/e7/e79dabec1c8902b4b8caeccd95a263fa.info" afterPath="$PROJECT_DIR$/Library/metadata/e7/e79dabec1c8902b4b8caeccd95a263fa.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/ed/edc72e8a1964cfa4b83cd8beee067b15" afterPath="$PROJECT_DIR$/Library/metadata/ed/edc72e8a1964cfa4b83cd8beee067b15" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/f0/f06b6a947b157a04680e8e2257e15886" afterPath="$PROJECT_DIR$/Library/metadata/f0/f06b6a947b157a04680e8e2257e15886" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/f6/f61731837cd507b4bb8d08e58761223f.info" afterPath="$PROJECT_DIR$/Library/metadata/f6/f61731837cd507b4bb8d08e58761223f.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/f9/f98785de0606dda4cacbf3e9e0a465e9" afterPath="$PROJECT_DIR$/Library/metadata/f9/f98785de0606dda4cacbf3e9e0a465e9" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/fc/fc33fb0e38b5dcd4f82d280e32528756" afterPath="$PROJECT_DIR$/Library/metadata/fc/fc33fb0e38b5dcd4f82d280e32528756" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/fc/fc8f6e2522fcc034ebc1fda7a348c64b" afterPath="$PROJECT_DIR$/Library/metadata/fc/fc8f6e2522fcc034ebc1fda7a348c64b" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Animations/AmergonBannerlord/Ship.controller" afterPath="$PROJECT_DIR$/Assets/Animations/AmergonBannerlord/Ship.controller" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scenes/sceneTest.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/sceneTest.unity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IronEagles.sln" afterPath="$PROJECT_DIR$/IronEagles.sln" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="EnemyCombatMind.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ships/EnemyCombatMind.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="63" column="51" lean-forward="false" selection-start-line="63" selection-start-column="51" selection-end-line="63" selection-end-column="51" />
+              <folding>
+                <marker date="1528486857987" expanded="true" signature="6:78" ph="..." />
+                <marker date="1528486857987" expanded="true" signature="125:1518" ph="{...}" />
+                <marker date="1528486857987" expanded="true" signature="497:523" ph="{...}" />
+                <marker date="1528486857987" expanded="true" signature="558:739" ph="{...}" />
+                <marker date="1528486857987" expanded="true" signature="589:650" ph="{...}" />
+                <marker date="1528486857987" expanded="true" signature="621:646" ph="{...}" />
+                <marker date="1528486857987" expanded="true" signature="677:736" ph="{...}" />
+                <marker date="1528486857987" expanded="true" signature="707:732" ph="{...}" />
+                <marker date="1528486857987" expanded="true" signature="761:1516" ph="{...}" />
+                <marker date="1528486857987" expanded="true" signature="875:1000" ph="{...}" />
+                <marker date="1528486857987" expanded="true" signature="1401:1453" ph="{...}" />
+                <marker date="1528486857987" expanded="true" signature="1460:1513" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Detector.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ships/Detector.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1528315485406" expanded="false" signature="6:78" ph="..." />
+                <marker date="1528315485406" expanded="true" signature="118:341" ph="{...}" />
+                <marker date="1528315485406" expanded="true" signature="193:339" ph="{...}" />
+                <marker date="1528315485406" expanded="true" signature="276:336" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BannerlordWeapons.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Bannerlord/BannerlordWeapons.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-697">
+              <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+              <folding>
+                <marker date="1528490988195" expanded="false" signature="6:78" ph="..." />
+                <marker date="1528490988195" expanded="true" signature="127:1774" ph="{...}" />
+                <marker date="1528490988195" expanded="true" signature="844:850" ph="{...}" />
+                <marker date="1528490988195" expanded="true" signature="873:1772" ph="{...}" />
+                <marker date="1528490988195" expanded="true" signature="908:1106" ph="{...}" />
+                <marker date="1528490988195" expanded="true" signature="1143:1402" ph="{...}" />
+                <marker date="1528490988195" expanded="true" signature="1434:1769" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayerShipMove.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerShipMove.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1528315485375" expanded="false" signature="6:78" ph="..." />
+                <marker date="1528315485375" expanded="true" signature="124:769" ph="{...}" />
+                <marker date="1528315485375" expanded="true" signature="308:406" ph="{...}" />
+                <marker date="1528315485375" expanded="true" signature="334:365" ph="{...}" />
+                <marker date="1528315485375" expanded="true" signature="429:767" ph="{...}" />
+                <marker date="1528315485375" expanded="true" signature="675:764" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IronEagleFire.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ships/IronEagle/IronEagleFire.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
+              <folding>
+                <marker date="1528315485422" expanded="false" signature="6:78" ph="..." />
+                <marker date="1528315485422" expanded="true" signature="252:384" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViolbladeFire.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ships/Violblade/ViolbladeFire.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+              <folding>
+                <marker date="1528488537929" expanded="false" signature="6:78" ph="..." />
+                <marker date="1528488537929" expanded="true" signature="123:963" ph="{...}" />
+                <marker date="1528488537929" expanded="true" signature="524:961" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViolbladeWeapons.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Violblade/ViolbladeWeapons.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="45" selection-end-column="39" />
+              <folding>
+                <marker date="1528488538038" expanded="false" signature="6:78" ph="..." />
+                <marker date="1528488538038" expanded="true" signature="126:1145" ph="{...}" />
+                <marker date="1528488538038" expanded="true" signature="639:645" ph="{...}" />
+                <marker date="1528488538038" expanded="true" signature="668:1143" ph="{...}" />
+                <marker date="1528488538038" expanded="true" signature="703:901" ph="{...}" />
+                <marker date="1528488538038" expanded="true" signature="938:1005" ph="{...}" />
+                <marker date="1528488538038" expanded="true" signature="1037:1140" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerShipMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ships/Violblade/ViolbladeFire.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Bannerlord/BannerlordWeapons.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ships/EnemyCombatMind.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ships/Detector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Violblade/ViolbladeWeapons.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ships/IronEagle/IronEagleFire.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ships/Violblade/ViolbladeFire.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ships/EnemyCombatMind.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Bannerlord/BannerlordWeapons.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="152" />
+    <option name="y" value="131" />
+    <option name="width" value="1378" />
+    <option name="height" value="646" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="IronEagles (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Unity Debug.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce3919ff-f263-4d97-985e-37166e225e80" name="Default" comment="" />
+      <created>1528316259267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528316259267</updated>
+      <workItem from="1528316312427" duration="2277000" />
+      <workItem from="1528488482234" duration="1196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3473000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="152" y="131" width="1378" height="646" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21659325" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ships/EnemyCombatMind.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1528486857987" expanded="true" signature="6:78" ph="..." />
+            <marker date="1528486857987" expanded="true" signature="125:1518" ph="{...}" />
+            <marker date="1528486857987" expanded="true" signature="497:523" ph="{...}" />
+            <marker date="1528486857987" expanded="true" signature="558:739" ph="{...}" />
+            <marker date="1528486857987" expanded="true" signature="589:650" ph="{...}" />
+            <marker date="1528486857987" expanded="true" signature="621:646" ph="{...}" />
+            <marker date="1528486857987" expanded="true" signature="677:736" ph="{...}" />
+            <marker date="1528486857987" expanded="true" signature="707:732" ph="{...}" />
+            <marker date="1528486857987" expanded="true" signature="761:1516" ph="{...}" />
+            <marker date="1528486857987" expanded="true" signature="875:1000" ph="{...}" />
+            <marker date="1528486857987" expanded="true" signature="1401:1453" ph="{...}" />
+            <marker date="1528486857987" expanded="true" signature="1460:1513" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerShipMove.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1528315485375" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528315485375" expanded="true" signature="124:769" ph="{...}" />
+            <marker date="1528315485375" expanded="true" signature="308:406" ph="{...}" />
+            <marker date="1528315485375" expanded="true" signature="334:365" ph="{...}" />
+            <marker date="1528315485375" expanded="true" signature="429:767" ph="{...}" />
+            <marker date="1528315485375" expanded="true" signature="675:764" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ships/IronEagle/IronEagleFire.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <marker date="1528315485422" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528315485422" expanded="true" signature="252:384" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ships/Violblade/ViolbladeFire.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+          <folding>
+            <marker date="1528488537929" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528488537929" expanded="true" signature="123:963" ph="{...}" />
+            <marker date="1528488537929" expanded="true" signature="524:961" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Violblade/ViolbladeWeapons.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="45" selection-end-column="39" />
+          <folding>
+            <marker date="1528488538038" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528488538038" expanded="true" signature="126:1145" ph="{...}" />
+            <marker date="1528488538038" expanded="true" signature="639:645" ph="{...}" />
+            <marker date="1528488538038" expanded="true" signature="668:1143" ph="{...}" />
+            <marker date="1528488538038" expanded="true" signature="703:901" ph="{...}" />
+            <marker date="1528488538038" expanded="true" signature="938:1005" ph="{...}" />
+            <marker date="1528488538038" expanded="true" signature="1037:1140" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerShipMove.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1528315485375" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528315485375" expanded="true" signature="124:769" ph="{...}" />
+            <marker date="1528315485375" expanded="true" signature="308:406" ph="{...}" />
+            <marker date="1528315485375" expanded="true" signature="334:365" ph="{...}" />
+            <marker date="1528315485375" expanded="true" signature="429:767" ph="{...}" />
+            <marker date="1528315485375" expanded="true" signature="675:764" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Violblade/ViolbladeWeapons.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="45" selection-end-column="39" />
+          <folding>
+            <marker date="1528488538038" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528488538038" expanded="true" signature="126:1145" ph="{...}" />
+            <marker date="1528488538038" expanded="true" signature="639:645" ph="{...}" />
+            <marker date="1528488538038" expanded="true" signature="668:1143" ph="{...}" />
+            <marker date="1528488538038" expanded="true" signature="703:901" ph="{...}" />
+            <marker date="1528488538038" expanded="true" signature="938:1005" ph="{...}" />
+            <marker date="1528488538038" expanded="true" signature="1037:1140" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ships/IronEagle/IronEagleFire.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <marker date="1528315485422" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528315485422" expanded="true" signature="252:384" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ships/Violblade/ViolbladeFire.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+          <folding>
+            <marker date="1528488537929" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528488537929" expanded="true" signature="123:963" ph="{...}" />
+            <marker date="1528488537929" expanded="true" signature="524:961" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ships/EnemyCombatMind.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="63" column="51" lean-forward="false" selection-start-line="63" selection-start-column="51" selection-end-line="63" selection-end-column="51" />
+          <folding>
+            <marker date="1528486857987" expanded="true" signature="6:78" ph="..." />
+            <marker date="1528486857987" expanded="true" signature="125:1518" ph="{...}" />
+            <marker date="1528486857987" expanded="true" signature="497:523" ph="{...}" />
+            <marker date="1528486857987" expanded="true" signature="558:739" ph="{...}" />
+            <marker date="1528486857987" expanded="true" signature="589:650" ph="{...}" />
+            <marker date="1528486857987" expanded="true" signature="621:646" ph="{...}" />
+            <marker date="1528486857987" expanded="true" signature="677:736" ph="{...}" />
+            <marker date="1528486857987" expanded="true" signature="707:732" ph="{...}" />
+            <marker date="1528486857987" expanded="true" signature="761:1516" ph="{...}" />
+            <marker date="1528486857987" expanded="true" signature="875:1000" ph="{...}" />
+            <marker date="1528486857987" expanded="true" signature="1401:1453" ph="{...}" />
+            <marker date="1528486857987" expanded="true" signature="1460:1513" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ships/Detector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1528315485406" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528315485406" expanded="true" signature="118:341" ph="{...}" />
+            <marker date="1528315485406" expanded="true" signature="193:339" ph="{...}" />
+            <marker date="1528315485406" expanded="true" signature="276:336" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Bannerlord/BannerlordWeapons.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-697">
+          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding>
+            <marker date="1528490988195" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528490988195" expanded="true" signature="127:1774" ph="{...}" />
+            <marker date="1528490988195" expanded="true" signature="844:850" ph="{...}" />
+            <marker date="1528490988195" expanded="true" signature="873:1772" ph="{...}" />
+            <marker date="1528490988195" expanded="true" signature="908:1106" ph="{...}" />
+            <marker date="1528490988195" expanded="true" signature="1143:1402" ph="{...}" />
+            <marker date="1528490988195" expanded="true" signature="1434:1769" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
