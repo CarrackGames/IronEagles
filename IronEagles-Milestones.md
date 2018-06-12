@@ -2,38 +2,16 @@
  - [ ] Opening Cutscene X
 	- [ ] Animations
 	- [ ] Text
-- [ ] Character Creation
-	- [ ] Name
-	- [ ] Gender
-	- [ ] Race
-	- [ ] Portrait
 - [ ] Enemy AI X
 	- [ ] Basic Movement
 	- [ ] Combat
 	- [ ] Dynamic Hostility
 	- [ ] Player Interaction/Dialogue
-- [ ] Lightspeed Jump
-	- [ ] Map UI
-	- [ ] Location Recognition
-	- [ ] Fuel
 - [ ] Space Stations X
 	- [ ] Docking
 	- [ ] UI
 	- [ ] Outfitting
 	- [ ] Ship Purchasing/Local Inventory
-- [ ] Playable Areas
-	- [ ] 25 Populated Systems
-  	- [ ] 10 Unpopulated
-  	- [ ] 15 Unexplored
-- [ ] Quests
-	- [ ] Quest UI
-	- [ ] Acquiring Quests
-	- [ ] Objectives
-	- [ ] Completion/Rewards
-- [ ] Main Story
-	- [ ] Opening
-	- [ ] Cutscenes
-	- [ ] Refinement
 - [ ] Money X
 	- [ ] Rewards
 	- [ ] Income
@@ -48,6 +26,28 @@
 	- [ ] Power Consumption
 	- [ ] Power Accolation
 	- [ ] Power Outages
+- [ ] Character Creation
+	- [ ] Name
+	- [ ] Gender
+	- [ ] Race
+	- [ ] Portrait
+- [ ] Lightspeed Jump
+	- [ ] Map UI
+	- [ ] Location Recognition
+	- [ ] Fuel
+- [ ] Playable Areas
+	- [ ] 25 Populated Systems
+  	- [ ] 10 Unpopulated
+  	- [ ] 15 Unexplored
+- [ ] Quests
+	- [ ] Quest UI
+	- [ ] Acquiring Quests
+	- [ ] Objectives
+	- [ ] Completion/Rewards
+- [ ] Main Story
+	- [ ] Opening
+	- [ ] Cutscenes
+	- [ ] Refinement
 - [ ] Projectiles/Types
 	- [ ] Bolts
 	- [ ] Beams
