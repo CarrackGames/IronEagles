@@ -1,5 +1,5 @@
-***Game Design Goals have an "X" in front***
-X - [ ] Opening Cutscene
+***Game Design Goals have an "X" at the end***
+ - [ ] Opening Cutscene X
 	- [ ] Animations
 	- [ ] Text
 - [ ] Character Creation
@@ -7,7 +7,7 @@ X - [ ] Opening Cutscene
 	- [ ] Gender
 	- [ ] Race
 	- [ ] Portrait
-- [ ] Enemy AI
+- [ ] Enemy AI X
 	- [ ] Basic Movement
 	- [ ] Combat
 	- [ ] Dynamic Hostility
@@ -16,15 +16,15 @@ X - [ ] Opening Cutscene
 	- [ ] Map UI
 	- [ ] Location Recognition
 	- [ ] Fuel
-- [ ] Space Stations
+- [ ] Space Stations X
 	- [ ] Docking
 	- [ ] UI
 	- [ ] Outfitting
 	- [ ] Ship Purchasing/Local Inventory
 - [ ] Playable Areas
 	- [ ] 25 Populated Systems
-  - [ ] 10 Unpopulated
-  - [ ] 15 Unexplored
+  	- [ ] 10 Unpopulated
+  	- [ ] 15 Unexplored
 - [ ] Quests
 	- [ ] Quest UI
 	- [ ] Acquiring Quests
@@ -34,17 +34,17 @@ X - [ ] Opening Cutscene
 	- [ ] Opening
 	- [ ] Cutscenes
 	- [ ] Refinement
-- [ ] Money
+- [ ] Money X
 	- [ ] Rewards
 	- [ ] Income
 	- [ ] Buy/Sell Cargo
 	- [ ] Purchasing
 	- [ ] Fines
-- [ ] Inventory
+- [ ] Inventory X
 	- [ ] Components
 	- [ ] Cargo
 	- [ ] ~ Crew
-- [ ] Power Systems
+- [ ] Power Systems X
 	- [ ] Power Consumption
 	- [ ] Power Accolation
 	- [ ] Power Outages
