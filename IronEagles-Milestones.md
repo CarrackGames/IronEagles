@@ -1,2 +1,63 @@
-- [ ] Opening Cutscene
-  - [ ] Animations
+***Game Design Goals have an "X" in front***
+X - [ ] Opening Cutscene
+	- [ ] Animations
+	- [ ] Text
+- [ ] Character Creation
+	- [ ] Name
+	- [ ] Gender
+	- [ ] Race
+	- [ ] Portrait
+- [ ] Enemy AI
+	- [ ] Basic Movement
+	- [ ] Combat
+	- [ ] Dynamic Hostility
+	- [ ] Player Interaction/Dialogue
+- [ ] Lightspeed Jump
+	- [ ] Map UI
+	- [ ] Location Recognition
+	- [ ] Fuel
+- [ ] Space Stations
+	- [ ] Docking
+	- [ ] UI
+	- [ ] Outfitting
+	- [ ] Ship Purchasing/Local Inventory
+- [ ] Playable Areas
+	- [ ] 25 Populated Systems
+  - [ ] 10 Unpopulated
+  - [ ] 15 Unexplored
+- [ ] Quests
+	- [ ] Quest UI
+	- [ ] Acquiring Quests
+	- [ ] Objectives
+	- [ ] Completion/Rewards
+- [ ] Main Story
+	- [ ] Opening
+	- [ ] Cutscenes
+	- [ ] Refinement
+- [ ] Money
+	- [ ] Rewards
+	- [ ] Income
+	- [ ] Buy/Sell Cargo
+	- [ ] Purchasing
+	- [ ] Fines
+- [ ] Inventory
+	- [ ] Components
+	- [ ] Cargo
+	- [ ] ~ Crew
+- [ ] Power Systems
+	- [ ] Power Consumption
+	- [ ] Power Accolation
+	- [ ] Power Outages
+- [ ] Projectiles/Types
+	- [ ] Bolts
+	- [ ] Beams
+	- [ ] Bullets
+	- [ ] Missiles
+	- [ ] Bombs
+- [ ] More Ships & Upgrades
+- [ ] Side Quests
+
+*** Polish ***
+
+- [ ] ~ Planets
+- [ ] ~ Random Mission/Job Generation
