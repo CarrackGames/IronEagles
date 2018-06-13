@@ -210,6 +210,7 @@ GameObject:
   - component: {fileID: 4564444691392328}
   - component: {fileID: 58560855918949806}
   - component: {fileID: 114764622721544124}
+  - component: {fileID: 114086594366143536}
   m_Layer: 0
   m_Name: Detector
   m_TagString: Detection
@@ -513,7 +514,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1105056162490082}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -15.04, y: -5.73, z: 0}
+  m_LocalPosition: {x: -14.6, y: -0.7, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4242667193808452}
@@ -2163,6 +2164,7 @@ MonoBehaviour:
   volume: 0
   projectileCooldown: 0
   projectile: {fileID: 1523669746542236, guid: 1150f9be633caac498471e541615819c, type: 2}
+  ship: {fileID: 0}
 --- !u!114 &114046480416480448
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2178,6 +2180,7 @@ MonoBehaviour:
   volume: 0
   projectileCooldown: 0
   projectile: {fileID: 1523669746542236, guid: 1150f9be633caac498471e541615819c, type: 2}
+  ship: {fileID: 0}
 --- !u!114 &114062500278458592
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2218,6 +2221,7 @@ MonoBehaviour:
   volume: 0
   projectileCooldown: 0
   projectile: {fileID: 1307279862356024, guid: c55cebe5801247d4c88097abcb2743cc, type: 2}
+  ship: {fileID: 0}
 --- !u!114 &114070923920770254
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2236,6 +2240,18 @@ MonoBehaviour:
   shielding: 1
   isHit: 0
   ship: {fileID: 1186661797969518}
+--- !u!114 &114086594366143536
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1484632933102132}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a4b2b0e82e0ad944a562a83d30fd7fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 1186661797969518}
 --- !u!114 &114124270606334566
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2251,6 +2267,7 @@ MonoBehaviour:
   volume: 0
   projectileCooldown: 0
   projectile: {fileID: 1731311676873002, guid: 0c8aa0984515e2842857bc53e74b2811, type: 2}
+  ship: {fileID: 0}
 --- !u!114 &114136368230637016
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2266,6 +2283,7 @@ MonoBehaviour:
   volume: 0
   projectileCooldown: 0
   projectile: {fileID: 1523669746542236, guid: 1150f9be633caac498471e541615819c, type: 2}
+  ship: {fileID: 0}
 --- !u!114 &114146411361825650
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2316,6 +2334,7 @@ MonoBehaviour:
   volume: 0
   projectileCooldown: 0
   projectile: {fileID: 1523669746542236, guid: 1150f9be633caac498471e541615819c, type: 2}
+  ship: {fileID: 0}
 --- !u!114 &114237428148222860
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2331,6 +2350,7 @@ MonoBehaviour:
   volume: 0
   projectileCooldown: 0
   projectile: {fileID: 1523669746542236, guid: 1150f9be633caac498471e541615819c, type: 2}
+  ship: {fileID: 0}
 --- !u!114 &114277293255528306
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2346,6 +2366,7 @@ MonoBehaviour:
   volume: 0
   projectileCooldown: 0
   projectile: {fileID: 1731311676873002, guid: 0c8aa0984515e2842857bc53e74b2811, type: 2}
+  ship: {fileID: 0}
 --- !u!114 &114298617645151956
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2361,6 +2382,7 @@ MonoBehaviour:
   volume: 0
   projectileCooldown: 0
   projectile: {fileID: 1731311676873002, guid: 0c8aa0984515e2842857bc53e74b2811, type: 2}
+  ship: {fileID: 0}
 --- !u!114 &114323540177491910
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2396,6 +2418,7 @@ MonoBehaviour:
   volume: 0
   projectileCooldown: 0
   projectile: {fileID: 1731311676873002, guid: 0c8aa0984515e2842857bc53e74b2811, type: 2}
+  ship: {fileID: 0}
 --- !u!114 &114542039569273308
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2411,6 +2434,7 @@ MonoBehaviour:
   volume: 0
   projectileCooldown: 0
   projectile: {fileID: 1731311676873002, guid: 0c8aa0984515e2842857bc53e74b2811, type: 2}
+  ship: {fileID: 0}
 --- !u!114 &114690990742372940
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2449,6 +2473,7 @@ MonoBehaviour:
   volume: 0
   projectileCooldown: 0
   projectile: {fileID: 1523669746542236, guid: 1150f9be633caac498471e541615819c, type: 2}
+  ship: {fileID: 0}
 --- !u!114 &114814415361818498
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2464,6 +2489,7 @@ MonoBehaviour:
   volume: 0
   projectileCooldown: 0
   projectile: {fileID: 1307279862356024, guid: c55cebe5801247d4c88097abcb2743cc, type: 2}
+  ship: {fileID: 0}
 --- !u!114 &114985118529257862
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2479,6 +2505,7 @@ MonoBehaviour:
   volume: 0
   projectileCooldown: 0
   projectile: {fileID: 1731311676873002, guid: 0c8aa0984515e2842857bc53e74b2811, type: 2}
+  ship: {fileID: 0}
 --- !u!212 &212461379556376718
 SpriteRenderer:
   m_ObjectHideFlags: 1

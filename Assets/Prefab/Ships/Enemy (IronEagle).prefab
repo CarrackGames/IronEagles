@@ -60,7 +60,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1340174807302144
 GameObject:
   m_ObjectHideFlags: 1
@@ -147,6 +147,7 @@ GameObject:
   - component: {fileID: 4873715937712778}
   - component: {fileID: 58269887195421572}
   - component: {fileID: 114900787990260910}
+  - component: {fileID: 114592874637346832}
   m_Layer: 0
   m_Name: Detector
   m_TagString: Detection
@@ -208,7 +209,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1312877638869658}
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 10, y: 5, z: 0}
+  m_LocalPosition: {x: -3.6686087, y: -11.903885, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4355385559683892}
@@ -906,6 +907,18 @@ MonoBehaviour:
   maxhealth: 1000
   doomed: 0
   doomedCountdown: 75
+--- !u!114 &114592874637346832
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1596573282451058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a4b2b0e82e0ad944a562a83d30fd7fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 1444840364286128}
 --- !u!114 &114694738897356054
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -921,6 +934,7 @@ MonoBehaviour:
   volume: 0
   projectileCooldown: 0
   projectile: {fileID: 1731311676873002, guid: 0c8aa0984515e2842857bc53e74b2811, type: 2}
+  ship: {fileID: 0}
 --- !u!114 &114697765024481742
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -936,6 +950,7 @@ MonoBehaviour:
   volume: 0
   projectileCooldown: 0
   projectile: {fileID: 1523669746542236, guid: 1150f9be633caac498471e541615819c, type: 2}
+  ship: {fileID: 0}
 --- !u!114 &114708119303137436
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -966,6 +981,7 @@ MonoBehaviour:
   volume: 0
   projectileCooldown: 0
   projectile: {fileID: 1731311676873002, guid: 0c8aa0984515e2842857bc53e74b2811, type: 2}
+  ship: {fileID: 0}
 --- !u!114 &114836234226300030
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -983,8 +999,12 @@ MonoBehaviour:
   combatRange: 10
   playerHostility: 6
   shipHostility: 0
+  velocity: 0
+  boosting: 0
+  movements: {x: 0, y: 0}
   target: {fileID: 0}
   weapons: {fileID: 1444840364286128}
+  thrusters: {fileID: 0}
 --- !u!114 &114881416073284250
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1000,6 +1020,7 @@ MonoBehaviour:
   volume: 0
   projectileCooldown: 0
   projectile: {fileID: 1523669746542236, guid: 1150f9be633caac498471e541615819c, type: 2}
+  ship: {fileID: 0}
 --- !u!114 &114900787990260910
 MonoBehaviour:
   m_ObjectHideFlags: 1
