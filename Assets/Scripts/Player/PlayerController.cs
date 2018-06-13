@@ -10,17 +10,38 @@ public class PlayerController : MonoBehaviour {
 	public GameObject shipOuter;
 	public GameObject shipInner;
 	public GameObject pauseMenu;
+	public Vector3 landingTarget;
 	private Vector3 mousePosition;
 	public static bool viewMode2d;
 	public static bool mouseLookControls = true;
 	public static bool boosting = false;
 	public static bool paused = false;
 	public static bool shielded;
+	public static bool landingSequence;
 	public static float velocity = 0f;
+	public float landingSpeed;
 	public float health = 1000f;
 	public float maxhealth = 1000f;
 	public static float healthperc = 100;
 
+	void LandingTarget(Vector3 landingPosition) {
+
+		landingTarget = landingPosition;
+
+	}
+	void Landable(bool landable) {
+		if (landable == true) {
+
+			landingSequence = true;
+			Debug.Log ("Landing");
+		}
+	
+
+		if (landable == false) {
+
+			landingSequence = false;
+		}
+	}
 
 	void ShieldChange( bool shielding) {
 
@@ -31,6 +52,7 @@ public class PlayerController : MonoBehaviour {
 
 		viewMode2d = true;
 		mouseLookControls = false;
+		landingSequence = false;
 
 	}
 
@@ -44,7 +66,19 @@ public class PlayerController : MonoBehaviour {
 	}
 
 	void FixedUpdate () {
-		
+
+		if (landingSequence == true) {
+
+			var lx = transform.position.x - landingTarget.x;
+			var ly = transform.position.y - landingTarget.y;
+			var x = lx / landingSpeed;
+			var y = ly / landingSpeed;
+			if (Vector3.Distance (transform.position, landingTarget) <= 5) {
+
+				transform.position = landingTarget;
+			}
+		}
+
 		healthperc = (health / maxhealth) * 100f;
 		hull.gameObject.SendMessage ("Health", healthperc);
 	}

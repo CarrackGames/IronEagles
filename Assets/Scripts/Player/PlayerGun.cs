@@ -8,7 +8,6 @@ public class PlayerGun : MonoBehaviour {
 	public float volume;
 	public float projectileCooldown;
 	public GameObject projectile;
-	public GameObject ship;
 
 	void Start() {
 		gs = GetComponent<AudioSource> ();
